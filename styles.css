@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: silver;
+}
+.background_img{
+  background-image: url("http://wallpapercave.com/wp/khHbdpz.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  height:400px;
+  width:100%;
+  position: absolute;
+  z-index: -999;
+  opacity: .8;
+}
+.container{
+  padding-top: 100px;
+}
+header{
+  text-align: center;
+  padding: 20px;
+  color: black;
+}
+#title_container{
+  font-family: Papyrus, fantasy;
+  font-size: 2em;
+}
+.player{
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 30%;
+  width: 500px;
+  background-color: black;
+}
+.music-player{
+  width: 90%;
+}
+#search-bar{
+  width:20%;
+  height:30px;
+  font-size: 1em;
+  background-color: #ffffff;
+}
+#search_submit{
+  width: 12%;
+  height:50px;
+  font-size: 3em;
+}
+.search{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 30px;
+}
+.results{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.songs{
+  padding:  20px 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1 1  20%;
+}
+img{
+  padding-bottom: 10px;
+}
+.song_title{
+  padding-bottom: 10px;
+  font-size: .7em;
+}
+.band{
+  padding-bottom: 10px;
+}
