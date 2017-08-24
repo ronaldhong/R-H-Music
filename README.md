@@ -2,8 +2,8 @@
 ---
 <br/>
 A Music Streaming Application that fetchs SoundCLoud API and allows users to search and play the songs.
-<br/>
+
 ---
-##ScreenShot
+## ScreenShot
 ---
-![alt text](https://github.com/ronaldhong/R-H-Music/blob/master/image/music.png"Logo Title Text 1")
+![ScreenShot](https://raw.github.com/ronaldhong/R-H-Music/blob/master/image/music.png)
