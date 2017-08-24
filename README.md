@@ -6,4 +6,4 @@ A Music Streaming Application that fetchs SoundCLoud API and allows users to sea
 ---
 ## ScreenShot
 ---
-![ScreenShot](https://raw.github.com/ronaldhong/R-H-Music/blob/master/image/music.png)
+![ScreenShot](https://github.com/ronaldhong/R-H-Music/blob/master/image/music.png)
